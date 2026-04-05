@@ -1,4 +1,4 @@
-Auto PPT Agent
+**Auto PPT Agent
 Overview
 
 This project implements an AI-based Auto PPT Agent that automatically generates PowerPoint presentations from a single user prompt.
@@ -15,7 +15,7 @@ Architecture
 
 User Input → Agent → LLM → MCP Tool (PPTServer) → PowerPoint Output
 
-Technologies Used
+**Technologies Used
 Python
 Hugging Face API
 python-pptx
@@ -34,6 +34,5 @@ Output
 The generated PowerPoint file is saved in the output/ folder
 File name includes a timestamp
 
-Demo
-
-(Add your demo video link here)
+Demo video:
+https://drive.google.com/file/d/1k3vZPHSeZ9FbW3o8Xy0T9CJXrbCsL1in/view?usp=sharing
